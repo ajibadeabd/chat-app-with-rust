@@ -20,3 +20,7 @@ cargo run
 This will compile and start the Rust server.
 
 4. Once the server is running, you can access the chat application by visiting `http://localhost:8080` in your web browser.
+
+
+![Chat App Screenshot](pic1.png)
+![Chat App Screenshot](pic2.png)
